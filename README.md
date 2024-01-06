@@ -9,3 +9,6 @@ Second file is UofTDSI Building Research Software 20230103b. This is a python sc
 
 20240104
 Adding hello.py file from first class.
+
+20240106
+Adding GitHub API file with changes to account for error management.
